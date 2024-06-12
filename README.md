@@ -29,6 +29,10 @@ Comparing the MSE as shown below, there is no difference in SFS using Lasso and 
 
 <img width="262" alt="image" src="https://github.com/mitbans/comparing-feature-selection-methods/assets/166747739/50cb0c8c-67de-43db-831d-927da0d723ab">
 
+## Repository Structure
+- <code>data/</code>: Contains dataset used in the analysis.
+- <code>notebooks/feature_selection_methods.ipynb</code>: Jupyter notebook with code for data analysis.
+- <code>README.md</code>: Summary of findings and link to notebook
 
-
-
+## Notebook
+The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/comparing-feature-selection-methods/blob/main/notebooks/feature_selection_methods.ipynb">here</a>.
