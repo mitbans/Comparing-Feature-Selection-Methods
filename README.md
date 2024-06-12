@@ -25,6 +25,8 @@ For this problem a dataset with information on red wine chemical compositions an
 
 <img width="214" alt="image" src="https://github.com/mitbans/comparing-feature-selection-methods/assets/166747739/dec94625-d9cb-4f32-aac5-3dd2b58abd47">  <img width="213" alt="image" src="https://github.com/mitbans/comparing-feature-selection-methods/assets/166747739/798ea8f4-3f7e-4c48-9685-c7ccc282dacf">
 
+Comparing the MSE as shown below, there is no difference in SFS using Lasso and RFE using Lasso. Test MSE is lowest for Ridge.
+<img width="262" alt="image" src="https://github.com/mitbans/comparing-feature-selection-methods/assets/166747739/50cb0c8c-67de-43db-831d-927da0d723ab">
 
 
 
